@@ -26,7 +26,7 @@ Commands you can Enable/Disable:
 /do [message] <br>
 /it [message] <br>
 /darkweb [message] <br>
-/advert [message] <br>
+/advert [message]
 > This comes with 3 different STYLES!
 
 ## Advanced 911 Features:
