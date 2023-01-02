@@ -19,14 +19,14 @@ Commands you can Enable/Disable:
 ```
 
 ## Chat Commands:
-/ooc [message] -
-/looc [message] -
-/twt [message] -
-/anontwt [message] -
-/do [message] -
-/it [message] -
-/darkweb [message] -
-/advert [message]
+/ooc [message] <br>
+/looc [message] <br>
+/twt [message] <br>
+/anontwt [message] <br>
+/do [message] <br>
+/it [message] <br>
+/darkweb [message] <br>
+/advert [message] <br>
 > This comes with 3 different STYLES!
 
 ## Advanced 911 Features:
