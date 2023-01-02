@@ -19,7 +19,7 @@ Commands you can Enable/Disable:
 ```
 
 ## Chat Commands:
-/ooc [message]
+/ooc [message] \n
 /looc [message]
 /twt [message]
 /anontwt [message]
