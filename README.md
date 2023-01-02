@@ -35,6 +35,11 @@ Commands you can Enable/Disable:
 /website <br>
 
 ## Advanced 911 Features:
+
+### 911 Commands:
+/onduty-leo [password-optional] <br>
+/911 [report] <br>
+
 Enable/Disable **ondutymode**!
 > Configurable Onduty Command!
 
@@ -52,10 +57,5 @@ Enable/Disable **passwordmode**
 ***NEW!*** - Change the BLIP Sprite! <br>
 ***NEW!*** - Change the BLIP Size! <br>
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
-
-
-### 911 Commands
-/onduty-leo [password-optional]
-/911 [report]
 
 ## Advanced Jailing Features:
