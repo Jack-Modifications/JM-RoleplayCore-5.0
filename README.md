@@ -7,11 +7,14 @@ A FiveM Standalone Resource which has roleplay chat functions, advanced 911 feat
 
 Enable/Disable PvP <br>
 
-Enable/Disable High Ping Kicker
-> Set a Max Ping Limit
+Enable/Disable High Ping Kicker <br>
+> Set a Max Ping Limit 
 
-Enable/Disable Auto AFK Kicker
-> 10 minute AFK Timer [Configurable, but not simple, you must undetstand math.]
+**The Auto Kicker script can also be obtained here!**
+https://fivemods.net/product/393/
+
+Enable/Disable Auto AFK Kicker <br>
+> 10 minute AFK Timer [Configurable, but not simple, you must undetstand math.] <br>
 > Enable/Disable AFK Status Message.
 
 Enable/Disable Ragdolling **![How to setup keybind](https://cdn.discordapp.com/attachments/832641794972844062/1059534490185252914/ca2f760cf90843bd263bb3ea2dc099ec.png)** <br>
