@@ -47,11 +47,11 @@ Enable/Disable **passwordmode**
 > Configurable Embed Colors 
 
 # Developer Options!
-> **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`**
+> **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`** <br>
 
-***NEW!*** - Change the BLIP Sprite!
-***NEW!*** - Change the BLIP Size!
-***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]**
+***NEW!*** - Change the BLIP Sprite! <br>
+***NEW!*** - Change the BLIP Size! <br>
+***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
 
 
 ### 911 Commands
