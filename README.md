@@ -35,11 +35,6 @@ Commands you can Enable/Disable:
 /website <br>
 
 ## Advanced 911 Features:
-
-### 911 Commands:
-/onduty-leo **[password-optional]** <br>
-/911 **[report]** <br>
-
 Enable/Disable **ondutymode**!
 > Configurable Onduty Command!
 
@@ -50,6 +45,11 @@ Enable/Disable **passwordmode**
 > Configurable Webhook Username <br>
 > Configurable Webhook Icon <br>
 > Configurable Embed Colors 
+
+### 911 Commands:
+/onduty-leo **[password-optional]** <br>
+/911 **[report]** <br>
+
 
 # Developer Options!
 > **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`** <br>
