@@ -29,6 +29,11 @@ Commands you can Enable/Disable:
 /advert [message]
 > This comes with 3 different STYLES!
 
+### Informational Commands [All Configurable]
+/discord
+/cad
+/website
+
 ## Advanced 911 Features:
 
 ## Advanced Jailing Features:
