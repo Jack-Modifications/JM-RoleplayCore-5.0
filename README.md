@@ -73,6 +73,7 @@ Enable/Disable Show caller area.
 /onduty-leo **[password-optional]** <br>
 /911 **[report]** <br>
 
+![Dispatcher Log](https://cdn.discordapp.com/attachments/1026885796210413678/1059613274582302771/911-log.png)
 
 # Developer Options!
 > **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`** <br>
@@ -81,6 +82,9 @@ Enable/Disable Show caller area.
 ***NEW!*** - Change the BLIP Size! <br>
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
 
+![911 Call](https://cdn.discordapp.com/attachments/1026885796210413678/1059614941100908605/505dd680edbe5791e8e50da9ea6b81c7.png)
+
+--- 
 ## Advanced Jailing Features:
 Enable/Disable `/jailmyself` Command!
 
