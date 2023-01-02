@@ -46,6 +46,14 @@ Enable/Disable **passwordmode**
 > Configurable Webhook Icon <br>
 > Configurable Embed Colors 
 
+# Developer Options!
+> **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`**
+
+***NEW!*** - Change the BLIP Sprite!
+***NEW!*** - Change the BLIP Size!
+***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]**
+
+
 ### 911 Commands
 /onduty-leo [password-optional]
 /911 [report]
