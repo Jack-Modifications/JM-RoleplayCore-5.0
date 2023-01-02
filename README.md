@@ -5,8 +5,8 @@ A FiveM Standalone Resource which has roleplay chat functions, advanced 911 feat
 
 # Main Script Features
 
-Enable/Disable PvP
-Enable/Disable Ragdolling [Configurable]
+Enable/Disable PvP <br>
+Enable/Disable Ragdolling [Configurable] <br>
 Enable/Disable Certain Commands
 ```
 Commands you can Enable/Disable:
