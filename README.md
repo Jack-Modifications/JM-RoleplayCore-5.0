@@ -19,13 +19,13 @@ Commands you can Enable/Disable:
 ```
 
 ## Chat Commands:
-/ooc [message] /n
-/looc [message]
-/twt [message]
-/anontwt [message]
-/do [message]
-/it [message]
-/darkweb [message]
+/ooc [message] -
+/looc [message] -
+/twt [message] -
+/anontwt [message] -
+/do [message] -
+/it [message] -
+/darkweb [message] -
 /advert [message]
 > This comes with 3 different STYLES!
 
