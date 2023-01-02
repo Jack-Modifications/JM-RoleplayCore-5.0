@@ -30,10 +30,24 @@ Commands you can Enable/Disable:
 > This comes with 3 different STYLES!
 
 ### Informational Commands: [All Configurable]
-/discord
-/cad
-/website
+/discord <br>
+/cad <br>
+/website <br>
 
 ## Advanced 911 Features:
+Enable/Disable **ondutymode**!
+> Configurable Onduty Command!
+
+Enable/Disable **passwordmode**
+> Configurable Onduty Password
+
+911 Call Logging [Via Webhook]
+> Configurable Webhook Username
+> Configurable Webhook Icon
+> Configurable Embed Colors
+
+### 911 Commands
+/onduty-leo [password-optional]
+/911 [report]
 
 ## Advanced Jailing Features:
