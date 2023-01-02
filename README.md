@@ -67,7 +67,7 @@ Enable/Disable Show caller area.
 Enable/Disable '/jailmyself' Command!
 
 > Assign a `MAX JAIL TIME`! <br>
-> Assign a `Default JAIL TIME` **[This is only if someone does not provide a jailtime within the jail command.]** <br>
+> Assign a `Default JAIL TIME` **[This is only if someone does not provide a jailtime when jailing someone!]** <br>
 
 Enable/Disable Assigning jail ped upon being jailed!
 > IF you keep this enabled, you can choose which ped you'd like for it to assign, **VIA PED HASH!**
