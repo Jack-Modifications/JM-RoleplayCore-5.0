@@ -6,7 +6,7 @@ A FiveM Standalone Resource which has roleplay chat functions, advanced 911 feat
 # Main Script Features
 ***Roleplay Core | Version 5.0 - REVAMPED FEATURES!***
 
-__*Basic Features:*__
+## __*Basic Features:*__
 
 Improved Coding!
 
@@ -33,7 +33,7 @@ Following Commands you can Enable/Disable:
 
 
 
-__*Advanced 911 Features:*__
+## __*Advanced 911 Features:*__
 
 ***Updated*** - Logging System **[Discord Webhook]**
 Custom Embed colors.
@@ -48,14 +48,14 @@ Enable/Disable **`passwordmode`**
 
 ***NEW*** - Enable/Disable Show Caller Area **[This is the bigger "blip"/circle that pops up on the map]**
 
-*Developer OPTIONS!*
+# *Developer OPTIONS!*
 > **`MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE YOU MODIFY THIS!`**
 
 ***NEW!*** - Change the BLIP Sprite!
 ***NEW!*** - Change the BLIP Size!
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]**
 
-__*Advanced Jailing Features:*__
+## __*Advanced Jailing Features:*__
 
 ***NEW*** - Enable/Disable `/jailmyself` Command!
 
