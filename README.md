@@ -40,6 +40,10 @@ Commands you can Enable/Disable:
 /do **[message]** <br>
 /it **[message]** <br>
 /darkweb **[message]** <br>
+
+![Command Output](https://cdn.discordapp.com/attachments/1026885796210413678/1059546266486444133/RoleplayCore-Revamp.png)
+
+
 /advert **[message]**
 > This comes with 3 different STYLES!
 
