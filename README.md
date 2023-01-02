@@ -61,8 +61,8 @@ Enable/Disable **passwordmode**
 ## Advanced Jailing Features:
 
 ### Jailing Commands:
-/jail **[password] **[player-id] **[time-in-seconds]** <br>
+/jail **[password] [player-id] [time-in-seconds]** <br>
 /jailmyself **[time-in-seconds]** <br>
-/unjail **[password] **[player-id]**
+/unjail **[password] [player-id]**
 
 
