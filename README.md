@@ -30,8 +30,7 @@ Following Commands you can Enable/Disable:
 ***NEW!*** - Updated `/advert`  **w/ NEW STYLES!**
 *You can now, Choose One of Three `OUTPUT STYLES` in the **config.lua***
 
-
-
+---
 
 ## __*Advanced 911 Features:*__
 
@@ -54,6 +53,8 @@ Enable/Disable **`passwordmode`**
 ***NEW!*** - Change the BLIP Sprite!
 ***NEW!*** - Change the BLIP Size!
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]**
+
+---
 
 ## __*Advanced Jailing Features:*__
 
