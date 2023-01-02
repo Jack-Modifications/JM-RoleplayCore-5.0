@@ -35,16 +35,21 @@ Commands you can Enable/Disable:
 /website <br>
 
 ## Advanced 911 Features:
+911 Call Logging **[Via Webhook]**
+> Configurable Webhook Username <br>
+> Configurable Webhook Icon <br>
+> Configurable Embed Colors 
+
+Enable/Disable 911 Chat Calls!
+
 Enable/Disable **ondutymode**!
 > Configurable Onduty Command!
 
 Enable/Disable **passwordmode**
 > Configurable Onduty Password
 
-911 Call Logging **[Via Webhook]**
-> Configurable Webhook Username <br>
-> Configurable Webhook Icon <br>
-> Configurable Embed Colors 
+Enable/Disable Show caller area.
+> If you choose to keep this TRUE, then you can choose how long to display it in seconds!
 
 ### 911 Commands:
 /onduty-leo **[password-optional]** <br>
@@ -59,6 +64,19 @@ Enable/Disable **passwordmode**
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
 
 ## Advanced Jailing Features:
+Enable/Disable '/jailmyself' Command!
+
+> Assign a `MAX JAIL TIME`! <br>
+> Assign a `Default JAIL TIME` **[This is only if someone does not provide a jailtime within the jail command.]** <br>
+
+Enable/Disable Assigning jail ped upon being jailed!
+> IF you keep this enabled, you can choose which ped you'd like for it to assign, **VIA PED HASH!**
+
+Assign Jail coords.
+> You can choose where they should go upon being jailed!
+
+Release from Jail coords.
+> These coords are right outside of the prison, where the individual will go upon being released!
 
 ### Jailing Commands:
 /jail **[password] [player-id] [time-in-seconds]** <br>
