@@ -64,7 +64,7 @@ Enable/Disable Show caller area.
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
 
 ## Advanced Jailing Features:
-Enable/Disable '/jailmyself' Command!
+Enable/Disable `/jailmyself` Command!
 
 > Assign a `MAX JAIL TIME`! <br>
 > Assign a `Default JAIL TIME` **[This is only if someone does not provide a jailtime when jailing someone!]** <br>
