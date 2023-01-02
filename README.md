@@ -42,9 +42,9 @@ Enable/Disable **passwordmode**
 > Configurable Onduty Password
 
 911 Call Logging [Via Webhook]
-> Configurable Webhook Username
-> Configurable Webhook Icon
-> Configurable Embed Colors
+> Configurable Webhook Username <br>
+> Configurable Webhook Icon <br>
+> Configurable Embed Colors 
 
 ### 911 Commands
 /onduty-leo [password-optional]
