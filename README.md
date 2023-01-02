@@ -14,7 +14,7 @@ Enable/Disable Auto AFK Kicker
 > 10 minute AFK Timer [Configurable, but not simple, you must undetstand math.]
 > Enable/Disable AFK Status Message.
 
-Enable/Disable Ragdolling **!(How to setup keybind)[https://cdn.discordapp.com/attachments/832641794972844062/1059534490185252914/ca2f760cf90843bd263bb3ea2dc099ec.png]** <br>
+Enable/Disable Ragdolling **![How to setup keybind](https://cdn.discordapp.com/attachments/832641794972844062/1059534490185252914/ca2f760cf90843bd263bb3ea2dc099ec.png)** <br>
 
 
 Enable/Disable Certain Commands
