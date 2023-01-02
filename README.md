@@ -83,7 +83,7 @@ Enable/Disable Show caller area.
 ***NEW!*** - Change the BLIP Size! <br>
 ***NEW!*** - Change the General AREA's COLOR! **[The big Circle, not the blip icon]** 
 
-[![911 Caller Blip](https://gyazo.com/255b792e47555cb9529e202eb9ed5310)]
+![911 Caller Blip]([https://gyazo.com/255b792e47555cb9529e202eb9ed5310](https://cdn.discordapp.com/attachments/1026885796210413678/1059617254209224855/255b792e47555cb9529e202eb9ed5310.mp4))
 
 --- 
 ## Advanced Jailing Features:
