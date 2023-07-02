@@ -53,7 +53,7 @@ Commands you can Enable/Disable:
 **Style 2** <br>
 ![Style Two](https://cdn.discordapp.com/attachments/1026885796210413678/1124857302462246912/61e4bb2e9d5f32e1402b6d68b5389a6f.png) <br>
 
-**Style 3** `BE ADVISED: This Style can be abused, as it doesn't post the player server id in the same message, unlike the other styles.`<br>
+**Style 3** <br> `BE ADVISED: This Style can be abused, as it doesn't post the player server id in the same message, unlike the other styles.`<br>
 ![Style Three](https://cdn.discordapp.com/attachments/1026885796210413678/1124857323437948989/7f9db9cbd29b6488e1b9d60208dd7240.png) <br>
 
 ### Informational Commands: [All Configurable]
