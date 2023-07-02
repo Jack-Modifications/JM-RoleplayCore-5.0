@@ -48,7 +48,7 @@ Commands you can Enable/Disable:
 > This comes with 3 different STYLES!
 
 > Style - 1
-![StyleOne](https://gyazo.com/89099e35253d27ef94405f1518ab988c)
+![StyleOne]([https://gyazo.com/89099e35253d27ef94405f1518ab988c](https://cdn.discordapp.com/attachments/1026885796210413678/1124857284930052197/89099e35253d27ef94405f1518ab988c.png))
 
 ### Informational Commands: [All Configurable]
 /discord <br>
