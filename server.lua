@@ -106,7 +106,7 @@ RegisterCommand("me", function(source, args)
     TriggerClientEvent('3dme:shareDisplay', -1, text, source)
 end)
 
-if config.highPingKicker then
+if config.highPingKicker == true then
 RegisterServerEvent("CheckPlayerPing")
 AddEventHandler("CheckPlayerPing", function()
 	ping = GetPlayerPing(source)
