@@ -48,13 +48,13 @@ Commands you can Enable/Disable:
 > This comes with 3 different STYLES!
 
 **Style 1**
-![Style One](https://cdn.discordapp.com/attachments/1026885796210413678/1124857284930052197/89099e35253d27ef94405f1518ab988c.png)
+![Style One](https://cdn.discordapp.com/attachments/1026885796210413678/1124857284930052197/89099e35253d27ef94405f1518ab988c.png) <br>
 
 **Style 2**
-![Style Two](https://cdn.discordapp.com/attachments/1026885796210413678/1124857302462246912/61e4bb2e9d5f32e1402b6d68b5389a6f.png)
+![Style Two](https://cdn.discordapp.com/attachments/1026885796210413678/1124857302462246912/61e4bb2e9d5f32e1402b6d68b5389a6f.png) <br>
 
 **Style 3**
-![Style Three](https://cdn.discordapp.com/attachments/1026885796210413678/1124857323437948989/7f9db9cbd29b6488e1b9d60208dd7240.png)
+![Style Three](https://cdn.discordapp.com/attachments/1026885796210413678/1124857323437948989/7f9db9cbd29b6488e1b9d60208dd7240.png) <br>
 
 ### Informational Commands: [All Configurable]
 /discord <br>
