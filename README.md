@@ -10,7 +10,7 @@ Enable/Disable PvP <br>
 Enable/Disable High Ping Kicker <br>
 > Set a Max Ping Limit 
 
-**The Auto Kick script can also be obtained here!**
+**The STANDALONE version of the Auto Kick features can also be obtained here!**
 https://fivemods.net/product/393/
 
 Enable/Disable Auto AFK Kicker <br>
