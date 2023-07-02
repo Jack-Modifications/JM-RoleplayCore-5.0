@@ -47,6 +47,9 @@ Commands you can Enable/Disable:
 /advert **[message]**
 > This comes with 3 different STYLES!
 
+> Style - 1
+![StyleOne](https://gyazo.com/89099e35253d27ef94405f1518ab988c)
+
 ### Informational Commands: [All Configurable]
 /discord <br>
 /cad <br>
