@@ -25,7 +25,7 @@ end, false)
 
 RegisterKeyMapping('+ragdoll', 'Ragdoll', 'keyboard', 'OEM_3')
 	
-if config.highPingKicker == true then
+if config.highPingKicker == true then 
 Citizen.CreateThread(function() 
 	while true do
 		Wait(1000)
