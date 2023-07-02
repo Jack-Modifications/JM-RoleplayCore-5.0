@@ -22,7 +22,7 @@ config.disabledCommandMessage = '^1^*BE ADVISED: ^7^* The command you tried to e
 -----------------------------------------------------------------------------------------
 --                        Chat Commands Configuration                                  --
 -----------------------------------------------------------------------------------------
-config.advertStyle = 2 -- DEFAULT: 2 - 3 DIFF STYLES
+config.advertStyle = 2 -- DEFAULT: 1 - 3 DIFF STYLES
 
 config.enableDiscordCommand = true -- Enable/Disable the /discord command!
 config.enableCadCommand = true -- Enable/Disable the /cad command!
